@@ -1,0 +1,4 @@
+LTBSSP_LDAP_URL: ldap.example.org
+LTBSSP_USER: manager
+LTBSSP_PASSWORD: SecretPassword
+LTBSSP_BASE: dc=example,dc=org
